@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font-family: Avenir Next;
+}
+
+.main {
+    margin: 0;
+}
+
+.top {
+    background-image: url("/Users/danwanthj/Desktop/Screen Shot 2021-06-05 at 2.28.00 PM.png");
+    background-repeat: none;
+    background-size: cover;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    color: white;
+    display: inline;
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    font-size: 14pt;
+}
+
+li a:hover {
+    opacity: 50%;
+}
+
+.title {
+    font-size: 48pt;
+    font-weight: 400;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+hr {
+    width: 100%;
+    height: 10px;
+    color: rgb(249, 213, 103);
+    background-color: rgb(249, 213, 103);
+    margin: 0;
+}
+
+.links {
+    font-size: 16pt;
+    font-weight: 500;
+    text-decoration: underline;
+    background-color: rgb(244, 238, 225);
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.button {
+    background-color: rgb(244, 238, 225);
+    padding-bottom: 20px;
+}
+
+.button2 {
+    background-color: rgb(244, 238, 225);
+    padding-bottom: 50px;
+}
+
+button {
+    padding: 14px 10%;
+    font-size: 16pt;
+    font-family: Avenir Next;
+    border-radius: 8px;
+    background-color: rgb(249, 213, 103);
+    border-color: rgb(249, 213, 103);
+}
+
+.flyer {
+    font-size: 16pt;
+    font-weight: 500;
+    text-decoration: underline;
+    background-color: rgb(244, 238, 225);
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.text {
+    padding-bottom: 10px;
+}
+
